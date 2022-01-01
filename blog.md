@@ -1,3 +1,9 @@
+---
+layout: page
+title: "PAGE TITLE"
+permalink: /URL-PATH/
+---
+
 ## Forkbomb Blasts
 
 Read my latest blog posts
