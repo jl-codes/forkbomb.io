@@ -29,6 +29,7 @@ twitter_username: cycodezero
 github_username:  jl-codes
 
 # Build settings
+markdown: GFM
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
