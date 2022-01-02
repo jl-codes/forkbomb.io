@@ -23,7 +23,7 @@ email: turingxo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Website and blog for Tony Loehr. This is a place for thoughts, musings, ideas, plans, and manifestos. All opinions expressed here are my own. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "htps://" # the base hostname & protocol for your site, e.g. http://example.com
 domain: forkbomb.io
 twitter_username: cycodezero
 github_username:  jl-codes
